@@ -46,6 +46,7 @@
 
 .btn-outline:hover {
   border-color: var(--secondary-color);
+  box-shadow: none;
 }
 
 /* Backgrounds & Colored Buttons */
