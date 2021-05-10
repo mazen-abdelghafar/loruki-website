@@ -486,4 +486,17 @@ pre {
     background-color: rgba(0, 0, 0, 0.1);
     border-radius: 7px;
   }
+
+  .showcase-text {
+    max-width: 350px;
+    margin: 150px auto 0;
+  }
+
+  .showcase-form {
+    max-width: 350px;
+  }
+
+  .features-sub-head img {
+    width: 350px;
+  }
 }
